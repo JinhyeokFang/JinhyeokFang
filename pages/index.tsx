@@ -2,6 +2,7 @@ import type { NextPage } from 'next'
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
+import { AiFillGithub } from 'react-icons/ai'
 
 const Home: NextPage = () => {
   return (
@@ -16,8 +17,8 @@ const Home: NextPage = () => {
         <div className={styles.wrapper}>
           <Image src="/profile.jpg" alt="profile" width="200" height="200" className={styles.profileImage}/>
           <h1 className={styles.profileName}>방진혁</h1>
-          <h2 className={styles.profileEnglishName}>Jin-hyeok Bang</h2>
-          <span>github.com/jinhyeokfang</span>
+          <h3 className={styles.developer}>Web Developer</h3>
+          <AiFillGithub size='50' className={styles.githubIcon} title='Github Profile' onClick={() => location.href = 'https://github.com/jinhyeokfang'} />
         </div>
       </main>
     </div>

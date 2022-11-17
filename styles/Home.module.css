@@ -34,8 +34,12 @@
   font-size: 30px;
 }
 
-.profileEnglishName {
-  margin: 0;
+.githubIcon {
+  cursor: pointer;
+}
+
+.developer {
+  margin: 5px;
   font-size: 18px;
-  font-weight: lighter;
+  font-weight: normal;
 }
