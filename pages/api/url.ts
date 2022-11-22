@@ -17,7 +17,8 @@ async function GET(req: VercelRequest, res: VercelResponse) {
         res.status(400).json({
             success: false,
             error: `this api requires query variable named 'name'.`,
-        })
+        });
+        return;
     }
 
     try {
