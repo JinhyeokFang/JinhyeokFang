@@ -38,6 +38,7 @@ C@@@@@@@@@@@@@@@@@@@@@@@8880080CC0@@@@@@@@@@81tG08Gt:i
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)
 ### Production
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?&style=for-the-badge&logo=Vultr&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4.svg?&style=for-the-badge&logo=GoogleCloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub(&GITHUB%20ACTION)-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
@@ -46,14 +47,15 @@ C@@@@@@@@@@@@@@@@@@@@@@@8880080CC0@@@@@@@@@@81tG08Gt:i
 ![PM2](https://img.shields.io/badge/PM2-2B037A.svg?&style=for-the-badge&logo=PM2&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 ### Frameworks
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Nest.js](https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
 ![Next.js](https://img.shields.io/badge/NextJS-000000.svg?&style=for-the-badge&logo=Next.JS&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?&style=for-the-badge&logo=Jest&logoColor=white)
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhyeokfang&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 [![Solved.ac
