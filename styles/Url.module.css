@@ -1,0 +1,71 @@
+.container {
+  padding: 0 2rem;
+  transition: 1s all;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background: #242424;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 1000px;
+  height: 400px;
+  border-radius: 30px;
+  box-shadow: 0px 0px 3px 3px rgba(0,0,0,0.3);
+  background: #323232;
+  color: white;
+}
+
+.input {
+  border: none;
+  width: 300px;
+  height: 50px;
+  font-size: 20px;
+  margin: 10px 0;
+  padding: 0 5px;
+
+  border-radius: 10px;
+  box-shadow: 0px 0px 3px 3px rgba(0,0,0,0.3);
+}
+
+.longInput {
+  width: 800px;
+}
+
+.urlText {
+  font-size: 20px;
+}
+
+.createButton {
+  border: none;
+  width: 300px;
+  height: 50px;
+  font-size: 20px;
+  margin: 10px 0;
+  padding: 0 5px;
+
+  background: #404040;
+  color: white;
+  cursor: pointer;
+
+  border-radius: 10px;
+  box-shadow: 0px 0px 3px 3px rgba(0,0,0,0.3);
+}
+
+.createdText {
+  font-size: 25px;
+}
+
+.errorText {
+  font-size: 20px;
+  color: red;
+}
