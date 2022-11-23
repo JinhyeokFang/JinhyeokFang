@@ -9,7 +9,7 @@ const UrlPage: NextPage = () => {
   const [shortUrl, setShortUrl] = useState('');
   const [showCreatedText, setShowCreatedText] = useState(false);
   const [showErrorText, setShowErrorText] = useState(false);
-  const [errorMessage, setErrorMessage] = useState('');
+
   const buttonClicked = async () => {
     try {
       await axios.post(`https://bang.jinhy.uk/api/url`, {
@@ -21,7 +21,6 @@ const UrlPage: NextPage = () => {
     } catch (error) {
       setShowCreatedText(false);
       setShowErrorText(true);
-      setErrorMessage(JSON.stringify(error.response.data.error.message as string));
     }
   }
 
@@ -64,10 +63,7 @@ const UrlPage: NextPage = () => {
             showCreatedText && <span className={styles.createdText}>Created!</span>
           }
           {
-            showErrorText && <span className={styles.errorText}>Error: { errorMessage }</span>
-          }
-          {
-            showErrorText && <span className={styles.errorText}>이미 존재하는 URL은 아닌지 확인해주세요.</span>
+            showErrorText && <span className={styles.errorText}>에러가 발생했습니다. 이미 존재하는 URL은 아닌지 확인해주세요.</span>
           }
         </div>
       </main>
