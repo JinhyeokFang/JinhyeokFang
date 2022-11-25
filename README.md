@@ -26,7 +26,7 @@ C@@@@@@@@@@@@@@@@@@@@@@@8880080CC0@@@@@@@@@@81tG08Gt:i
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0LCCC0@@@GCLGL0L08L@@@@0
 </pre>
 
-## Things i'm interested in or I'm using
+## Things i'm interested in or using
 
 ### Runtime and Languages
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white)
@@ -40,7 +40,7 @@ C@@@@@@@@@@@@@@@@@@@@@@@8880080CC0@@@@@@@@@@81tG08Gt:i
 ### Production
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?&style=for-the-badge&logo=Vultr&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4.svg?&style=for-the-badge&logo=GoogleCloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub(&GITHUB%20ACTION)-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 <br>
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?&style=for-the-badge&logo=Nginx&logoColor=white)
