@@ -1,4 +1,4 @@
-# 점진적으로 성장하는 개발자 방진혁입니다 :)
+# 점진적으로 성장하는 코드를 추구하는 개발자 방진혁입니다 :)
 
 ## 사용하거나 관심있는 기술들
 
@@ -27,5 +27,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhyeokfang&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jinhyeokfang)](https://solved.ac/profile/jinhyeokFang)
-![Pedometer](https://f9039c3zbh.execute-api.us-east-1.amazonaws.com/dev/count/aHR0cHM6Ly9naXRodWIuY29tL0ppbmh5ZW9rRmFuZw==/image.svg)
-
